@@ -1,0 +1,2 @@
+# FMODStudio
+FMODGUIT
